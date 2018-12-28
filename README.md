@@ -3,8 +3,8 @@ Práctica de Planificación - IA
 
 
 ### Execution
-`.bin/ff  -o domain.pddl -f problem.pddl` _[Fast Forward]_  
-`.bin/mff -o domain.pddl -f problem.pddl` _[Metric Fast Forward]_
+`./bin/ff  -o domain.pddl -f problem.pddl` _[Fast Forward]_  
+`./bin/mff -o domain.pddl -f problem.pddl` _[Metric Fast Forward]_
 
 ### INFO
 Asumiremos que en un problema tendremos un conjunto de rovers aparcados en bases (pueden
